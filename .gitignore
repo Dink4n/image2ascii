@@ -2,4 +2,4 @@
 *.o
 
 # executable
-ascii
+image2ascii
